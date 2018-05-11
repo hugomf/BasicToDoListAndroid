@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_add">Add</string>
+    <string name="title_delete">Remove</string>
+    <string name="task_title">Enter the task information in the following fields</string>
+    <string name="task_name">Task</string>
+    <string name="task_description">Task Description</string>
+</resources>
